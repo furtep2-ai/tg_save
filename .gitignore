@@ -1,0 +1,15 @@
+venv/
+.env
+*alembic.ini
+/.vscode
+/.pytest_cache
+/tg_app/__pycache__
+/tg_app/admin_handlers/__pycache__
+/tg_app/keyboards/__pycache__
+/tg_app/menu/__pycache__
+/tg_app/migrations/__pycache__
+/tg_app/midllewares/__pycache__
+/tg_app/states/__pycache__
+/tg_app/tests/__pycache__
+/tg_app/user_handlers/__pycache__
+alembic.ini
